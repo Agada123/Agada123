@@ -24,7 +24,7 @@ I am a second-year student based in Saint Petersburg, Russia. Currently, I am fo
 ---
 
 ### 📂 Academic Projects
-I have built over [X number] of projects through my curriculum at ITMO, ranging from lab tasks to more complex systems.
+I have some of my projects through my curriculum at ITMO, ranging from lab tasks to more complex systems.
 
 *Check out my repositories to see my progress in:*
 - Object-Oriented Programming (Java)
@@ -41,4 +41,4 @@ I have built over [X number] of projects through my curriculum at ITMO, ranging 
 
 ---
 
-📫 **How to reach me:** [Your Email or LinkedIn Link]
+📫 **How to reach me:** [ujahhenry2007@yahoo.com]
